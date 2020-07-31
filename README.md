@@ -57,6 +57,6 @@ THEN that will be shown on the page, and added to their transaction history when
 * You are required to submit the following:
 
   * the URL to the deployed application
-
+    Deployed Application: https://budget-tracker-00.herokuapp.com/
   * the URL to the Github repository
 
